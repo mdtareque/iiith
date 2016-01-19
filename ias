@@ -2,3 +2,11 @@
 
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-7-on-ubuntu-14-04-via-apt-get  
 http://stackoverflow.com/questions/10673684/send-http-request-manually-via-socket  
+
+### Getting started hurdles:
+http://stackoverflow.com/questions/14791843/eclipse-add-tomcat-7-blank-server-name  
+http://www.srccodes.com/p/article/3/Tomcat-Hello-World-Servlet-using-Eclipse-IDE  
+http://localhost:8080/TestServProj/TestServlet1  
+http://www.java2s.com/Tutorial/Java/0320__Network/SendingaPOSTRequestUsingaSocket.htm  
+http://code.joejag.com/2012/how-to-send-a-raw-http-request-via-java.html  
+http://www.oracle.com/technetwork/java/servlet-142430.html  
