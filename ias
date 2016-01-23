@@ -10,3 +10,50 @@ http://localhost:8080/TestServProj/TestServlet1
 http://www.java2s.com/Tutorial/Java/0320__Network/SendingaPOSTRequestUsingaSocket.htm  
 http://code.joejag.com/2012/how-to-send-a-raw-http-request-via-java.html  
 http://www.oracle.com/technetwork/java/servlet-142430.html  
+
+
+
+### Assignment 3 : RPC webservice creation
+
+build-n-run.sh
+  
+  #!/bin/bash
+  
+  #shopt -s globstar
+  #javac **/*.java
+  javac -cp ".:../lib/commons-net-3.0.1.jar" mtk/ias/bittorrent/v2/MiniBitTorrent.java
+  jar cvfe mini-bittorrent-tareque-a1.jar mtk.ias.bittorrent.v2.MiniBitTorrent mtk/*
+  #jar tvf mini-bittorrent-tareque-a1.jar
+  java -cp lib/commons-net-3.0.1.jar:mini-bittorrent-tareque-a1.jar mtk.ias.bittorrent.v2.MiniBitTorrent
+  
+
+$ find
+.
+./build-n-run.sh
+./lib
+./lib/commons-net-3.0.1.jar
+./mini-bittorrent-tareque-a1.jar
+./.build-n-run.sh.swp
+./mtk
+./mtk/ias
+./mtk/ias/bittorrent
+./mtk/ias/bittorrent/v2
+./mtk/ias/bittorrent/v2/utils
+./mtk/ias/bittorrent/v2/utils/LOGLEVEL.class
+./mtk/ias/bittorrent/v2/utils/Logger.class
+./mtk/ias/bittorrent/v2/utils/Util.class
+./mtk/ias/bittorrent/v2/utils/Util.java
+./mtk/ias/bittorrent/v2/utils/Logger.java
+./mtk/ias/bittorrent/v2/FileRegistry.class
+./mtk/ias/bittorrent/v2/MiniClient.java
+./mtk/ias/bittorrent/v2/INFO.class
+./mtk/ias/bittorrent/v2/MiniServer.class
+./mtk/ias/bittorrent/v2/MiniClient.class
+./mtk/ias/bittorrent/v2/Peer.java
+./mtk/ias/bittorrent/v2/MiniBitTorrent.java
+./mtk/ias/bittorrent/v2/INFO.java
+./mtk/ias/bittorrent/v2/MiniBitTorrent.class
+./mtk/ias/bittorrent/v2/MiniServer.java
+./mtk/ias/bittorrent/v2/FileRegistry.java
+./mtk/ias/bittorrent/v2/Peer.class
+
