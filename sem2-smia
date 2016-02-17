@@ -5,3 +5,13 @@ http://stackoverflow.com/questions/8077099/short-guide-how-to-use-gnuplot-with-p
 https://www.khanacademy.org/math/linear-algebra  
 http://matplotlib.org/users/pyplot_tutorial.html  
 
+
+A3: Neural networkds 
+
+http://sunsite.univie.ac.at/textbooks/octave/octave_14.html  
+http://daniel-e.github.io/2015-07-25-MNIST-handwritten-digits-for-Octave/  
+http://swizec.com/blog/i-suck-at-implementing-neural-networks-in-octave/swizec/2929  
+http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/  
+http://mazack.org/papers/mazack_octave_digits.pdf  
+https://github.com/jincheng9/MNIST_digit_recognition/blob/master/load_data/loadMNISTImages.m  BEST  
+https://github.com/sorki/python-mnist 
