@@ -1,0 +1,21 @@
+
+
+https://www.kaggle.com/c/home-depot-product-search-relevance/
+
+stats at:  https://www.kaggle.com/briantc/home-depot-product-search-relevance/homedepot-first-dataexploreation-k
+
+
+tail -n+2 train.csv | awk -F, '{print $NF}' | sort | uniq
+    2105 1
+       4 1.25
+    3006 1.33
+       5 1.5
+    6780 1.67
+       9 1.75
+   11730 2
+      11 2.25
+   16060 2.33
+      19 2.5
+   15202 2.67
+      11 2.75
+   19125 3
