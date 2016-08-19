@@ -1,4 +1,4 @@
-## Lec1 : Intro
+## Lec1 : Intro (23 slides) 
 
 Aspect of design : a particular part or feature of something
   Great Design = Visceral D + Behavioral D + Reflective D
@@ -65,10 +65,43 @@ Field of Design: Environmental
  - typographic d
  - package d
  - Logo, corporate and brand Identity d
+
+## Lec2 : Elements and Principle of Design (45 slides)
+ Design Space, Architecture, Living Space
+ Elements of Design : Forma types, proportions, shape
  
+ Three Spheres of sustainability
+ 1. Environment 2. Social 3. Economic
+ 
+ Elements:
+   - space
+   - points/dots
+   - lines
+   - form/volume
+   - color
+   - surface
+   - pattern/texture
+   - size/scale
+   - tone
   
-## Lec2 : Elements and Principle of Design
+ Principle of design
+    - unity/harmony
+    - balance
+    - heirarchy
+    - scale/proportion
+    - dominance/emphasis
+    - similarity and contrast
 
 ## Lec3 : Empathy, Social Design and Environment
+
+Logo : story attached, answers who? what? why?, should be able to be displayed in B&W
+
+Empathy - environment perception
+discovery -- Connection -><- Immersion -- Detachment
+Observe, Engage, Immerse
+Perception: process of organizing and interpreting incoming sensory information
+Env. Perception: awareness of or feelings about the env, and act of apprehending the env by senses.
+Interaction between people and their env are influenced by several forms of percption auditory, depth and visual, Spatial
+
 
 ## Lec4 : Ergonomics and Special Needs
