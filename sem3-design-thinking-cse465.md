@@ -1,6 +1,6 @@
 ## Lec1 : Intro (23 slides) 
 
-Aspect of design : a particular part or feature of something
+Aspect of design : a particular part or feature of something  
   Great Design = Visceral D + Behavioral D + Reflective D
 
 - Visceral D: (related to internal deep feeling/nervous system)
@@ -96,12 +96,12 @@ Field of Design: Environmental
 
 Logo : story attached, answers who? what? why?, should be able to be displayed in B&W
 
-Empathy - environment perception
-discovery -- Connection -><- Immersion -- Detachment
-Observe, Engage, Immerse
-Perception: process of organizing and interpreting incoming sensory information
-Env. Perception: awareness of or feelings about the env, and act of apprehending the env by senses.
-Interaction between people and their env are influenced by several forms of percption auditory, depth and visual, Spatial
+Empathy - environment perception  
+discovery -- Connection -><- Immersion -- Detachment  
+Observe, Engage, Immerse  
+Perception: process of organizing and interpreting incoming sensory information  
+Env. Perception: awareness of or feelings about the env, and act of apprehending the env by senses.  
+Interaction between people and their env are influenced by several forms of percption auditory, depth and visual, Spatial  
 
 
 ## Lec4 : Ergonomics and Special Needs
